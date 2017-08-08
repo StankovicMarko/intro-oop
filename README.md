@@ -5,4 +5,4 @@
     It was written in java 6 and swing with mig layout
 
 
-![Alt text](https://ibb.co/nOwWnF "Picture of GUI")
+![Alt text](https://image.ibb.co/iPkfga/oop.png "Picture of GUI")
