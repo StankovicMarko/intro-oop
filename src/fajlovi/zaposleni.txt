@@ -1,0 +1,3 @@
+Marko|Stankovic|123456789998|Sremska 3|2|35000|user|pass|false
+Lepan|Lepi|987654321112|Zeleznicka 12|2|27000|usn|psw|false
+Julijana Jana|Blagojevic|01233210|Njegoseva 43|1|21000|lepa|jana|false

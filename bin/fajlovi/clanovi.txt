@@ -1,0 +1,4 @@
+Dejan|Lekler|654654654654|Danila Kisa 5|2|1|true
+Ljubinka|Bozic|1236547899877|Balkanska 5|1|2|true
+Petar|Peric|13465549879|Niska 3|2|3|true
+James|Hetfield|9999999999999|Zeleznicka 89|2|4|true

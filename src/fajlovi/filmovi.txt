@@ -1,0 +1,5 @@
+Haci|Hachi|2009|1|Lasse Hallstrom|Profesor na putu do kuce upoznaju psa za kog se veze.|97|false
+Rane|The Wounds|1998|3|Srdjan Dragojevic|Momci postaju gansteri, dok drustvo pada u rasulo|104|false
+Staro momce|Oldboy|2003|4|Chan-wook Park|Nakon sto biva kidnapovan i zarobljen 15 godina glavni lik saznaje da mora da nadje zarobljenika za 5 dana.|120|false
+Warcraft: Pocetak|Warcraft: The Beginning|2016|6|Duncan Jones|Orci vrse invaziju na Azerot.|125|false
+To|It|1990|7|Tommy Lee Wallace|Smrtonosni klovn je pusten na slobodu.|192|false

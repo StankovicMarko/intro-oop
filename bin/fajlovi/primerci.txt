@@ -1,0 +1,12 @@
+1|Haci|2|1|true|false
+2|Haci|3|1|false|false
+3|Haci|1|2|false|false
+4|Rane|3|1|false|false
+5|Rane|1|3|false|false
+6|Rane|2|1|false|false
+7|Staro momce|1|2|false|false
+8|Staro momce|2|2|false|false
+9|Staro momce|3|1|false|false
+10|Warcraft: Pocetak|3|2|false|false
+11|To|3|1|false|false
+12|To|3|1|false|false

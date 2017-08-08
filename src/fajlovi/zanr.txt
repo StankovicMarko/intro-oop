@@ -1,0 +1,7 @@
+1|Drama|false
+2|Komedija|false
+3|Akcija,Komedija,Drama|false
+4|Drama,Triler|false
+5|Akcija|false
+6|Akcija,Avantura,Fantazija|false
+7|Drama,Fantazija,Horor|false
